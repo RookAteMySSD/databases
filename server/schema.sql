@@ -21,7 +21,7 @@ CREATE TABLE messages (
 
 /* Create other tables and define schemas for them here! */
 
--- insert into messages values(1, 'test', 'roomtest', 'ronin');
+-- insert into messages values(1, 'test', 'roomtest', 'name');
 -- update messages set username='somthing else' where id=1;
 
 
